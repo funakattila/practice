@@ -1,0 +1,1 @@
+[{"uid":"523a8c35510a9bde","name":"TestSumTwoNumbers()","time":{"start":1657051669072,"stop":1657051673115,"duration":4043},"status":"passed","severity":"normal"},{"uid":"28433e1ced07cfd2","name":"TestSumTwoInvalidInputs()","time":{"start":1657051673217,"stop":1657051676663,"duration":3446},"status":"passed","severity":"normal"}]
