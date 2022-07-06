@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 06 11:03:54 GMT 2022","Wed Jul 06 11:03:57 GMT 2022","2626","","tests.RadioButtonTest","","tests.RadioButtonTest","TestSingleCheckedButton","TestSingleCheckedButton()",""
+"passed","Wed Jul 06 11:03:59 GMT 2022","Wed Jul 06 11:04:02 GMT 2022","3570","","tests.InputFieldTest","","tests.InputFieldTest","TestSumTwoNumbers","TestSumTwoNumbers()","Összeadás valid adatokkal"
+"passed","Wed Jul 06 11:03:57 GMT 2022","Wed Jul 06 11:03:59 GMT 2022","1920","","tests.RadioButtonTest","","tests.RadioButtonTest","TestMultipleCheckedButton","TestMultipleCheckedButton()",""
+"passed","Wed Jul 06 11:04:02 GMT 2022","Wed Jul 06 11:04:06 GMT 2022","3985","","tests.InputFieldTest","","tests.InputFieldTest","TestSumTwoInvalidInputs","TestSumTwoInvalidInputs()","Összeadás invalid adatokkal"
