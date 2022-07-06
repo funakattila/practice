@@ -1,9 +1,9 @@
 package pages;
 
+import io.qameta.allure.Step;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import io.qameta.allure.Step;
 
 public class InputFieldPage extends Page{
 
